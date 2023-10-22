@@ -1,0 +1,10 @@
+echo "# Aura" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/wjepdb/Aura.git
+git push -u origin main
+
+设置代理
+git config --global http.proxy "http://127.0.0.1:7890"
