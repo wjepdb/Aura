@@ -41,6 +41,14 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
+		},
+		{
+			"Name": "RiderSourceCodeAccess",
+			"Enabled": false
+		},
+		{
+			"Name": "RiderLink",
+			"Enabled": false
 		}
 	]
 }
